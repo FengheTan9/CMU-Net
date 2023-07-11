@@ -46,6 +46,13 @@ Please put the [BUSI](https://www.kaggle.com/aryashah2k/breast-ultrasound-images
                 |   ├── 0b1761.png
                 |   ├── ...
 ```
+## Environment
+
+- GPU: NVIDIA GeForce RTX4090 GPU
+- Pytorch: 1.13.0 cuda 11.7
+- cudatoolkit: 11.7.1
+- scikit-learn: 1.0.2
+
 ## Training and Validation
 
 ```
@@ -61,9 +68,9 @@ This code-base uses helper functions from [UNeXt](https://github.com/jeya-maria-
 If you use our code, please cite our paper:
 
 ```
-@article{fenghetang2022cmunet,
+@article{tang2022cmu,
   title={CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network},
-  author={Fenghe Tang, Lingtao Wang, Chunping Ning, Min Xian, and Jianrui Ding},
+  author={Tang, Fenghe and Wang, Lingtao and Ning, Chunping and Xian, Min and Ding, Jianrui},
   journal={arXiv preprint arXiv:2210.13012},
   year={2022}
 }
