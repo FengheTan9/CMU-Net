@@ -68,6 +68,18 @@ This code-base uses helper functions from [UNeXt](https://github.com/jeya-maria-
 If you use our code, please cite our paper:
 
 ```
+@INPROCEEDINGS{10230609,
+  author={Tang, Fenghe and Wang, Lingtao and Ning, Chunping and Xian, Min and Ding, Jianrui},
+  booktitle={2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)}, 
+  title={CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/ISBI53787.2023.10230609}}
+```
+
+```
 @article{tang2022cmu,
   title={CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network},
   author={Tang, Fenghe and Wang, Lingtao and Ning, Chunping and Xian, Min and Ding, Jianrui},
