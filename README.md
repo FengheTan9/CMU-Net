@@ -1,6 +1,6 @@
 # CMU-Net: a strong ConvMixer-based medical ultrasound image segmentation network
 
-Official Pytorch code for [CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network ISBI'23](https://ieeexplore.ieee.org/document/10230609)
+Official Pytorch code for [CMU-Net: A Strong ConvMixer-based Medical Ultrasound Image Segmentation Network, ISBI'23](https://ieeexplore.ieee.org/document/10230609)
 
 [Paper](https://arxiv.org/abs/2210.13012) | [Code](https://github.com/FengheTan9/CMU-Net)
 
