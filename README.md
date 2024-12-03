@@ -4,6 +4,9 @@ Official Pytorch code for [CMU-Net: A Strong ConvMixer-based Medical Ultrasound 
 
 [Paper](https://arxiv.org/abs/2210.13012) | [Code](https://github.com/FengheTan9/CMU-Net)
 
+
+New benchmarks are available for fair comparison 😎: [url](https://github.com/FengheTan9/Medical-Image-Segmentation-Benchmarks)
+
 ## Introduction
 U-Net and its extended segmentation model have achieved great success in medical image segmentation tasks. However, due to the inherent local characteristics of ordinary convolution operations, the encoder cannot effectively extract the global context information. In addition, simple skip connection cannot capture salient features. In this work, we propose a full convolutional segmentation network (CMU-Net) which incorporate hybrid convolution and multi-scale attention gate. The ConvMixer module is to mix distant spatial locations for extracting the global context information. Moreover, the multi-scale attention gate can help to emphasize valuable features and achieve efficient skip connections. Evaluations on open-source breast ultrasound images and private thyroid ultrasound image datasets show that CMU-Net achieves an average IOU of 73.27% and 84.75%, F1-value is 84.16% and 91.71%.
 
